@@ -1,2 +1,3 @@
 # Parallel-processing-1
-ALL to all ring topology
+ring toplogy
+ALL to all ring broadcast and reduce.
