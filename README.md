@@ -7,8 +7,8 @@ ALL to all ring broadcast and reduce.
 1. Load MPICH2 module before compiling the program. 
    <br> module load tools/mpich2-1.5-gcc
 
-2. Compile the program ＜/br＞
-   <br> cd ~/MPIsample ＜/br＞
+2. Compile the program 
+   <br> cd ~/MPIsample 
    <br> mpicc -o mpitest mpitest.c
    
 3. Modify netid references in email address & working directory in job script; 
