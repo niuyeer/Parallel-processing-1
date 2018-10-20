@@ -4,14 +4,15 @@ My goal is to solve this FIND SUM problem using ring logical topologies: a ring 
 ALL to all ring broadcast and reduce.
 
 
-1. Load MPICH2 module before compiling the program.＜/br＞
+1. Load MPICH2 module before compiling the program. ＜/br＞
    module load tools/mpich2-1.5-gcc
 
-2. Compile the program＜/br＞
-   cd ~/MPIsample＜/br＞
+2. Compile the program ＜/br＞
+   cd ~/MPIsample ＜/br＞
    mpicc -o mpitest mpitest.c
    
-3. Modify netid references in email address & working directory in job script; e.g.: vi mpitest.pbs
+3. Modify netid references in email address & working directory in job script; ＜/br＞
+   e.g.: vi mpitest.pbs
 
-4. Submit to the queue:＜/br＞
+4. Submit to the queue: ＜/br＞
    qsub mpitest.pbs
