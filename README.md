@@ -21,11 +21,9 @@ ALL to all ring broadcast and reduce.
    
    
    
-<br> The first part.
 
 
-<br> The second Part.
-<br> chapter 9.Sorting
+### chapter 9.Sorting
 1. parllel sorting 
 <br> PARM mesh hypercube
 <br> 内排序算法 internal sort 外排序算法 external sort
